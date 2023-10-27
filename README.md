@@ -1,1 +1,4 @@
 # political-juggernauts-2019
+give this dashboard linkhttps://public.tableau.com/app/profile/senthamizh.selvi.s/viz/dashboardNM/Dashboard22?publish=yes
+give this story linkhttps://public.tableau.com/app/profile/senthamizh.selvi.s/viz/dashboardNM/Dashboard22?publish=yes
+give this demo video linkhttps://course.learnbay.co/datascience/s2-data-analytics-generic?utm_source=google&utm_medium=data_analytics_course&utm_campaign=[skc]data_analytics_course_19714524182&utm_term=7221749228&utm_content=%22data_analytics_course%22&utm_term=data%20analytics%20course&utm_campaign=%5BSKC%5D+Data+Analytics+Course&utm_source=adwords&utm_medium=ppc&hsa_acc=6881325803&hsa_cam=19714524182&hsa_grp=149154564871&hsa_ad=648842839643&hsa_src=s&hsa_tgt=kwd-7221749228&hsa_kw=data%20analytics%20course&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=2&gclid=EAIaIQobChMIgIzimL-VggMVMKRmAh1JaAqSEAAYASAAEgLqO_D_BwE
